@@ -1,10 +1,8 @@
-ODS Landing Page
-=================
-Mở file index.html bằng Chrome để xem website.
+ODS Landing Page - phiên bản chi tiết
+- index.html: nội dung và cấu trúc website
+- style.css: giao diện responsive máy tính/điện thoại
+- script.js: menu điện thoại và form tạo email tư vấn
+- ods-logo.png: logo ODS (nếu có trong gói)
 
-Thông tin đang dùng:
-- Phạm Thị Huỳnh Như
-- 0933 690 031
-- nhupth@ods.vn
-
-Để đưa website lên Internet sau này, có thể dùng GitHub Pages, Netlify, Vercel hoặc hosting riêng.
+Cập nhật GitHub: repository > Add file > Upload files > tải lên các file mới > Commit changes.
+Lưu ý: form sẽ mở ứng dụng email, chưa lưu dữ liệu trên máy chủ. Hãy kiểm tra thông tin liên hệ trước khi công khai.
