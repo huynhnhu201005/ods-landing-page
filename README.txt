@@ -3,7 +3,7 @@ ODS Landing Page
 Mở file index.html bằng Chrome để xem website.
 
 Thông tin đang dùng:
-- Huỳnh Như
+- Phạm Thị Huỳnh Như
 - 0933 690 031
 - nhupth@ods.vn
 
